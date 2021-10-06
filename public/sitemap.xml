@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://qwarrai.ch/aboutme/aboutme/</loc>
+    <loc>https://qwarrai.ch/aboutme/aboutme/</loc>
   </url><url>
-    <loc>http://qwarrai.ch/aboutme/</loc>
+    <loc>https://qwarrai.ch/aboutme/</loc>
   </url><url>
-    <loc>http://qwarrai.ch/categories/</loc>
+    <loc>https://qwarrai.ch/categories/</loc>
   </url><url>
-    <loc>http://qwarrai.ch/</loc>
+    <loc>https://qwarrai.ch/</loc>
   </url><url>
-    <loc>http://qwarrai.ch/tags/</loc>
+    <loc>https://qwarrai.ch/tags/</loc>
   </url>
 </urlset>
