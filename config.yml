@@ -1,0 +1,36 @@
+baseURL: 'http://qwarrai.ch'
+languageCode: 'en-us'
+title: 'Qasim Warraich'
+theme: 'PaperMod'
+
+
+
+
+menu:
+    main:
+        - name: About me
+          url: aboutme/aboutme
+          weight: 5
+        - name: Projects
+          url: "https://github.com/qasimwarraich?tab=repositories"
+
+params:
+    profileMode:
+        enabled: true
+        title: "🤠" # optional default will be site title
+        subtitle: "Master's Computer Science Student at UZH, Feel free to download my resume or contact me below!"
+        # imageUrl: "https://avatars.githubusercontent.com/u/37380474?v=4" # optional
+        # imageTitle: "Profile Picture" # optional
+        # imageWidth: 250 # custom size
+        # imageHeight: 250 # custom size
+        buttons:
+            - name: Download Resume
+              url: "/docs/resume.pdf"
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/qasimwarraich"
+        - name: "<email>"
+          url: "mailto:qasim.warraich@gmail.com"
+
+
