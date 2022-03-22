@@ -11,6 +11,10 @@ menu:
           weight: 5
         - name: Projects
           url: "https://github.com/qasimwarraich?tab=repositories"
+        # TODO: Blog posts
+        # - name: Blog
+        #   identified: blog
+        #   url: posts/
 
 params:
     profileMode:
