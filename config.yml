@@ -19,13 +19,12 @@ menu:
 params:
     profileMode:
         enabled: true
-        title: "🤠"  # optional default will be site title
-        subtitle: "Master's Computer Science Student at UZH, Feel free to
-          download my resume or contact me below!"
+        # title: "🤠"  # optional default will be site title
         # imageUrl: "https://avatars.githubusercontent.com/u/37380474?v=4"
+        imageUrl: "img/cowboy.png"
         # imageTitle: "Profile Picture" # optional
-        # imageWidth: 250 # custom size
-        # imageHeight: 250 # custom size
+        imageWidth: 250  # custom size
+        imageHeight: 250  # custom size
         buttons:
             - name: Download Resume
               url: "/docs/resume.pdf"
