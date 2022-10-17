@@ -3,4 +3,5 @@
 
 
 ## What is this?
-This repository contains the code for my personal résumé website, qwarrai.ch. Feel free to check it out and contact me 🤠! 
+This repository contains the code for my personal résumé website, qwarrai.ch.
+Feel free to check it out and contact me 🤠! 
