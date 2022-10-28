@@ -42,11 +42,24 @@
     padding: 0 8px;
 }
 
+.profile_inner span a {
+    text-decoration: underline;
+}
+
+.profile_inner span a:hover {
+    font-weight: bold;
+}
+
+
+.button:hover {
+    transform: scale(1.1);
+}
+
 .button:active {
     transform: scale(0.96);
 }
 
-.social-icons a :hover {
+.social-icons a svg:hover {
     transform: scale(1.3);
 }
 
