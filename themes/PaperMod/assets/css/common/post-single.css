@@ -431,3 +431,7 @@ h6:hover .anchor {
 [dir="rtl"] .paginav .next {
     text-align: left;
 }
+
+a:hover {
+    font-weight: bold;
+}
