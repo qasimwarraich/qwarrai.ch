@@ -45,3 +45,8 @@
 .button:active {
     transform: scale(0.96);
 }
+
+.social-icons a :hover {
+    transform: scale(1.3);
+}
+
