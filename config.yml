@@ -20,8 +20,8 @@ params:
     profileMode:
         enabled: true
         # title: "🤠"  # optional default will be site title
-        subtitle: "Software Developer and Master's Computer Science Student at
-          UZH, Feel free to download my resume or contact me below!"
+        subtitle: "Software Developer and recent [UZH](https://uzh.ch/) Master's Computer Science
+          Graduate. Feel free to download my resume or contact me!"
         # imageUrl: "https://avatars.githubusercontent.com/u/37380474?v=4"
         imageUrl: "img/cowboy.png"
         # imageTitle: "Profile Picture" # optional
@@ -32,9 +32,9 @@ params:
               url: "/docs/resume.pdf"
 
     socialIcons:
-        - name: "gitlab"
-          url: "https://gitlab.com/qasimwarraich"
         - name: "github"
           url: "https://github.com/qasimwarraich"
+        - name: "gitlab"
+          url: "https://gitlab.com/qasimwarraich"
         - name: "<email>"
           url: "mailto:qasim.warraich@gmail.com"
