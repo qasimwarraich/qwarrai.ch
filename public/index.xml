@@ -12,7 +12,23 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://qwarrai.ch/aboutme/aboutme/</guid>
-      <description>$ whoami Recently, my work and personal interest has been in the area of computer vision and its applications in robotics. As a component of my Master’s degree I completed an individual study module with the Robotics and Perception research group at UZH. This study involved gaining familiarity with Event-Based Vision and its application in solving problems such as VIO, SLAM and it’s potential in various reconstruction algorithms. Personally what excites me the most is working on projects that influence and play a tangible role in the physical world.</description>
+      <description>&lt;h1 id=&#34;-whoami&#34;&gt;&lt;code&gt;$ whoami&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://avatars.githubusercontent.com/u/37380474?v=4%22#center&#34; alt=&#34;Profile Picture&#34;  /&gt;
+&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Having recently completed my Master’s degree, I am excited about the next
+steps. I am looking forward greatly to the opportunity to join a team where I
+can continue learning and expanding my knowledge and build some cool software
+along the way. In University, my work and personal interest has mostly been in
+the area of computer vision and its applications in robotics. As a component of
+my Master’s degree, I completed an individual study module with the &lt;a href=&#34;https://rpg.ifi.uzh.ch/&#34; target=&#34;_blank&#34;&gt;Robotics
+and Perception&lt;/a&gt;
+ research group at UZH. This study
+involved gaining familiarity with Event-Based Vision and its application in
+solving problems such as VIO, SLAM. I also completed a group project with the
+&lt;a href=&#34;https://vision.ee.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Computer Vision Laboratory&lt;/a&gt;
+ at the ETH, in the
+realm of domain adaptation for semantic image segmentation.&lt;/p&gt;</description>
     </item>
     
   </channel>
