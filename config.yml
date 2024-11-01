@@ -36,5 +36,5 @@ params:
           url: "https://github.com/qasimwarraich"
         - name: "gitlab"
           url: "https://gitlab.com/qasimwarraich"
-        - name: "<email>"
+        - name: "email"
           url: "mailto:me@qwarrai.ch"
